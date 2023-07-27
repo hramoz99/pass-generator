@@ -1,7 +1,7 @@
 # Gerador de Senha
 
 
-                                 Web Standards And Game Developing 
+                                  Web Standards And Game Developing 
                                                      
 ## Sistema Web 💻
 - HTML
