@@ -1,4 +1,4 @@
-# Gerador de Senha
+# Password Generator
 
 
                                   Web Standards And Game Developing 
