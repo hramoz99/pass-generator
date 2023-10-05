@@ -4,8 +4,8 @@
                                   Web Standards And Game Developing 
                                                      
 ## Sistema Web 💻
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 
 ## Tecnologia e Ferramentas 🛠
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
